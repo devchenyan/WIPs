@@ -12,7 +12,6 @@ WalletConnect provides a more secure and convenient experience for users and red
 Create an account on Wallet Connect website and then create a new Project, it's super easy, with just a few fields on the form. After that, you will be able to get your projectId and use it on your wallet.
 
 ## Installation
-Install the dependency on your client-side application
 
 ```
 npm i @nervosnetwork/ckb-walletconnect-wallet-sdk
